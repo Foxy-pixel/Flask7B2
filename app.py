@@ -81,3 +81,7 @@ def registrar():
     pusher_client.trigger("canalRegistrosInscripcionCursos", "registroInscripcionCursos", args)
 
     return args
+
+    pusher_client.trigger("canalRegistrosInscripcionCursos", "registroInscripcionCursos", args)
+
+    return args
